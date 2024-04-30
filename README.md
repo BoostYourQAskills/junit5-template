@@ -5,9 +5,7 @@
 Repositório do curso de testes automatizados em Java com Selenium 4 e JUnit 5
 
 ## 💻 Tecnologias
-- JDK 21
-- Selenium 4
-- Selenide (Bônus Pack)
+- JDK 17
 - JUnit 5
 
 ## 🤖 Como executar
