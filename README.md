@@ -2,7 +2,7 @@
 
 ## 🤘 Sobre
 
-Repositório do curso de testes automatizados em Java com Selenium 4 e JUnit 5
+Template para projetos de testes automatizados com Java e JUnit 5
 
 ## 💻 Tecnologias
 - JDK 21
